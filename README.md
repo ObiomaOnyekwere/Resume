@@ -1,8 +1,3 @@
 
 Inline-style: 
-![alt text](https://github.com/ObiomaOnyekwere/Resume/blob/main/OBIOMA_ONYEKWERE.pdf "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+(https://github.com/ObiomaOnyekwere/Resume/blob/main/OBIOMA_ONYEKWERE.pdf "Logo Title Text 1")
