@@ -1,1 +1,1 @@
-![some discription](/OBIOMA_ONYEKWERE.pdf "some discription")
+<embed src="/OBIOMA_ONYEKWERE.pdf" type="application/pdf">
